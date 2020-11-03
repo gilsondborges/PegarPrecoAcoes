@@ -1,0 +1,7 @@
+D:\Codes\PegarPrecoAcoes\bin\Debug\PegarPrecoAcoes.exe.config
+D:\Codes\PegarPrecoAcoes\bin\Debug\PegarPrecoAcoes.exe
+D:\Codes\PegarPrecoAcoes\bin\Debug\PegarPrecoAcoes.pdb
+D:\Codes\PegarPrecoAcoes\obj\Debug\PegarPrecoAcoes.csprojAssemblyReference.cache
+D:\Codes\PegarPrecoAcoes\obj\Debug\PegarPrecoAcoes.csproj.CoreCompileInputs.cache
+D:\Codes\PegarPrecoAcoes\obj\Debug\PegarPrecoAcoes.exe
+D:\Codes\PegarPrecoAcoes\obj\Debug\PegarPrecoAcoes.pdb
